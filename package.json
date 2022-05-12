@@ -1,0 +1,19 @@
+{
+  "name": "hexletjs",
+  "version": "1.0.0",
+  "description": "mystudyproject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dubravskiy/hexlet-js.git"
+  },
+  "author": "paveld",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/Dubravskiy/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Dubravskiy/hexlet-js#readme"
+}
