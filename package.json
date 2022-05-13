@@ -15,5 +15,16 @@
   "bugs": {
     "url": "https://github.com/Dubravskiy/hexlet-js/issues"
   },
-  "homepage": "https://github.com/Dubravskiy/hexlet-js#readme"
+  "type": "module",
+  "homepage": "https://github.com/Dubravskiy/hexlet-js#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "eslint": "^8.15.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "jest": "^28.1.0",
+    "prettier": "^2.6.2"
+  }
 }
